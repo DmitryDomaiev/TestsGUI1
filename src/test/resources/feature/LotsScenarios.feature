@@ -1,151 +1,150 @@
-@ST_1063242857
+@ST_8138
 Feature: Lots of scenarios
 Lots of scenarios
 
-@123 @SC_1052092254
+@SC_34132 @123
 Scenario: 1
 123
 Given 123
 When 332
 Then 123fs
 
-@123 @SC_1038869625
+@SC_34133 @123
 Scenario: 2
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_66045557
+@SC_34134 @123
 Scenario: 3
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_35142469
+@SC_34135 @123
 Scenario: 3
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_140250147
+@SC_34136 @123
 Scenario: 5
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_382784008
+@SC_34137 @123
 Scenario: 6
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_381861630
+@SC_34138 @123
 Scenario: 7
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_398143833
+@SC_34139 @123
 Scenario: 8
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_398405503
+@SC_34140 @123
 Scenario: 9
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_452939465
+@SC_34141 @123
 Scenario: 10
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_438793852
+@SC_34142 @123
 Scenario: 11
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_531536623
+@SC_34143 @123
 Scenario: 12
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_571375793
+@SC_34144 @123
 Scenario: 13
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_613993618
+@SC_34145 @123
 Scenario: 14
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_589775169
+@SC_34146 @123
 Scenario: 15
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_598088811
+@SC_34147 @123
 Scenario: 16
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_567344526
+@SC_34148 @123
 Scenario: 17
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_642899599
+@SC_34149 @123
 Scenario: 18
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_610091874
+@SC_34150 @123
 Scenario: 19
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_589116549
+@SC_34151 @123
 Scenario: 20
 123
 Given 123
 When 332
 Then 123
 
-@123 @SC_640404265
+@SC_34152 @123
 Scenario: 21
 123
 Given 123
 When 332
 Then 123
-
